@@ -17,3 +17,16 @@ require_once 'config/url.php';
   <title>Agenda de Contatos</title>
 </head>
 <body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <a class="navbar-brand" href="../index.php">
+        <img src="../img/logo.svg" alt="Agenda">
+      </a>
+      <div>
+        <div class="navbar-nav">
+          <a class="nav-link active" id="home-link" href="../index.php">Agenda</a>
+          <a class="nav-link active" id="home-link" href="../create.php">Adicionar contato</a>
+        </div>
+      </div>
+    </nav>
+  </header>
