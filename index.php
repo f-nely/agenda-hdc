@@ -1,3 +1,7 @@
+<?php
+require_once 'config/url.php';
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
