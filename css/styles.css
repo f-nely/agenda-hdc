@@ -74,3 +74,20 @@
 .bold {
   font-weight: bold;
 }
+
+#back-link-container {
+  display: block;
+  width: 500px;
+  margin: 30px auto 0;
+}
+
+#back-link {
+  border: 1px solid #007BFF;
+  color: #007BFF;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+#back-link:hover {
+  text-decoration: none;
+}
