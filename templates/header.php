@@ -32,7 +32,7 @@ if (isset($_SESSION['msg'])) {
       <div>
         <div class="navbar-nav">
           <a class="nav-link active" id="home-link" href="../index.php">Agenda</a>
-          <a class="nav-link active" id="home-link" href="../create.php">Adicionar contato</a>
+          <a class="nav-link active" href="../create.php">Adicionar contato</a>
         </div>
       </div>
     </nav>
